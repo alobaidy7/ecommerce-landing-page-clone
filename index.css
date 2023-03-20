@@ -1,0 +1,92 @@
+body{
+    font-family: 'Cairo', sans-serif;
+}
+
+.navbar{
+   color: white;
+    background-color: black;
+ 
+
+
+    position: sticky;
+    top: 0;
+    
+}
+
+.button{
+    height: 50px;
+    width: 180px;
+    background-color: white;
+    border-radius: 4px;
+    color: black;
+    font-weight: 700;
+}
+
+.smallTimer{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.smallDate{
+    font-size: 10px;
+
+}
+
+
+.blackBG{
+    background-color: black;
+}
+
+.whiteC{
+    color: white;
+}
+
+
+.font400{
+    font-weight: 400;
+}
+
+.font700{
+    font-weight: 700;
+}
+
+.font900{
+    font-weight: 900;
+}
+
+
+.circle{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: white;
+    
+    border: solid 8px gray;
+  
+    
+}
+
+
+.whiteBG{
+    background-color: white;
+}
+
+.shad{
+    box-shadow: 1px 1px  5px black;
+}
+
+.form{
+    background-color: rgb(34, 33, 33);
+    box-shadow: 1px 1px 10px black;
+    text-align: center;
+}
+
+
+input[type=text],input[type=number],input[type=email]{
+    background-color: rgb(161, 161, 161);
+
+    border-radius: 5px;
+   text-align: center;
+   color: white;
+   
+}
